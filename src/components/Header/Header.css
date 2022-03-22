@@ -1,0 +1,12 @@
+.header {
+    background-color: rgba(245, 90, 90, 1);
+    padding: 16px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.header__logo {
+    margin-right: 8px;
+}
